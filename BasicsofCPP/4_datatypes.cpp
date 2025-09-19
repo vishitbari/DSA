@@ -14,7 +14,7 @@ int main()
     cout << "My name is " << name << endl;
 
     float num1 = 8.22;
-    double num2 = 8.22222222;
+    double num2 = 8.222222222;
     cout << "Float number: " << num1 << endl;
     cout << "Double number: " << num2 << endl;
 
